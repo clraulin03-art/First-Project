@@ -1,8 +1,8 @@
-## projetPAI
+## projetPAI test
 
 This project was started with [supopo-pai-cookiecutter-template](https://github.com/ClementPinard/supop-pai-cookiecuttter-template/tree/main)
 
-## How to run
+## How to run test
 
 ⚠️ Chose one of the two method below, and remove the other one.
 
